@@ -4,6 +4,12 @@ Dies ist eine angepasste Version des offiziellen APA 7-Zitationsstils, optimiert
 
 
 
+\## 📥 Download
+
+\[Klicke hier, um den PMU-Style direkt herunterzuladen](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl)
+
+
+
 ⚠️ Disclaimer (Wichtig!)
 
 DIY-Hacker-Lösung: Dies ist ein privates Projekt. Ich habe für die Erstellung keinerlei offizielle Unterstützung seitens der PMU erhalten.
