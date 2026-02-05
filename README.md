@@ -4,9 +4,9 @@ Dies ist eine angepasste Version des offiziellen APA 7-Zitationsstils, optimiert
 
 
 
-📥 Download
+📥 Download \& Installation
 
-\[Klicke hier, um den PMU-Style direkt herunterzuladen](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl)
+Klicke \[hier](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl)
 
 
 
