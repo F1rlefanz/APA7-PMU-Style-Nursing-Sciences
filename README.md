@@ -6,7 +6,7 @@ Dies ist eine angepasste Version des offiziellen APA 7-Zitationsstils, optimiert
 
 📥 Download \& Installation
 
-Klicke \[hier](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl) zum Download.
+Klicke [hier](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl) zum Download.
 
 
 
