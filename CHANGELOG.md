@@ -4,6 +4,24 @@
 
 Alle wichtigen Änderungen an der CSL-Datei für die Anpassung an die PMU-Richtlinien.
 
+[1.2.2] - 02.03.2026
+Optimiert
+CSL-Validierung korrigiert: Das fehlerhafte Attribut line-spacing="1.5" wurde entfernt, da es nicht dem offiziellen CSL-Standard entspricht und Installationsfehlermeldungen in Zotero verursachte.
+
+Layout-Standardisierung: Der Zeilenabstand innerhalb der CSL-Datei wurde auf den Standardwert line-spacing="1" gesetzt. Die finale optische Anpassung auf 1,5-zeilig erfolgt nun sauber über die Absatz-Formatvorlage in Microsoft Word.
+
+Code-Bereinigung: Der <bibliography>-Tag wurde konsolidiert, um eine reibungslose Integration ohne Warnhinweise zu gewährleisten.
+
+[1.2.1] - 02.03.2026 (bzw. heutiges Datum)
+Behoben
+Persistenz-Fehler gelöst: Der Stil verschwand wiederholt aus Zotero und Word. Ursache war eine ID-Kollision mit dem offiziellen APA-Stil.
+
+Eindeutige ID vergeben: Die interne Style-ID wurde auf <id>http://www.zotero.org/styles/apa7_pmu</id> geändert, um automatische Überschreibungen durch Zotero-Updates zu verhindern.
+
+Dateisystem-Fix: Umstellung der Installation auf manuelle Kopie in das Zotero-Verzeichnis /styles/ zur dauerhaften Registrierung.
+
+Geändert
+Dateiname: Umbenennung der Quelldatei in apa-pmu.csl zur besseren Unterscheidbarkeit im Dateisystem.
 
 
 \## \[1.2.0] - 05.02.2026

@@ -3,7 +3,7 @@
   <info>
     <title>APA 7th edition - PMU Style</title>
     <title-short>APA</title-short>
-    <id>http://www.zotero.org/styles/apa</id>
+    <id>http://www.zotero.org/styles/apa7_pmu</id>
     <link href="http://www.zotero.org/styles/apa" rel="self"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
@@ -2103,7 +2103,7 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="true" et-al-min="8" et-al-use-first="6" et-al-use-last="true" entry-spacing="0" line-spacing="1.5">
+  <bibliography hanging-indent="true" et-al-min="8" et-al-use-first="6" et-al-use-last="true" entry-spacing="0" line-spacing="1">
     <sort>
       <key macro="author-sort"/>
       <key macro="date-sort-group" sort="ascending"/>
