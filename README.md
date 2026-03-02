@@ -1,112 +1,132 @@
-APA 7th Edition PMU Style for Nursing Sciences (Zotero)
+Alles klar, kein Problem! Wir behalten alle drei Wege bei, sortieren sie aber so, dass die sicherste Methode (die manuelle) ganz oben steht. So kann jeder selbst entscheiden, wie viel „Sicherheit“ er braucht.
+
+
+
+Hier ist die komplette, überarbeitete `README.md` mit allen drei Optionen:
+
+
+
+---
+
+
+
+\# APA 7th Edition PMU Style for Nursing Sciences (Zotero)
+
+
 
 Dies ist eine angepasste Version des offiziellen APA 7-Zitationsstils, optimiert für die spezifischen Anforderungen des Instituts für Pflegewissenschaften der Paracelsus Medizinischen Privatuniversität (PMU).
 
 
 
-📥 Download \& Installation
+\## 📥 Download
 
-Klicke [hier](https://raw.githubusercontent.com/F1rlefanz/APA7-PMU-Style-Nursing-Sciences/main/APA7%20PMU-Style.csl) zum Download.
 
 
+Lade die Datei `apa-pmu.csl` aus diesem Repository herunter.
 
-⚠️ Disclaimer (Wichtig!)
 
-DIY-Hacker-Lösung: Dies ist ein privates Projekt. Ich habe für die Erstellung keinerlei offizielle Unterstützung seitens der PMU erhalten.
 
+\## 🚀 Installation
 
 
-Keine Gewähr: Ich kann nicht garantieren, dass dieser Stil alle Eventualitäten abdeckt oder zu 100 % den Wünschen entspricht und in Zukunft weiter betreut wird.
 
+Es gibt drei Wege, den Stil zu installieren. \*\*Weg A wird empfohlen\*\*, da er am stabilsten ist.
 
 
-Eigenverantwortung: Ich übernehme keine Verantwortung für Punktabzüge oder Korrekturbedarf bei wissenschaftlichen Arbeiten. Bitte prüfe deine Belege immer stichprobenartig gegen die aktuellen Richtlinien.
 
+\### Weg A: Manuelle Installation (Empfohlen \& am sichersten)
 
 
-🤝 Feedback erwünscht!
 
-Ich möchte diesen Stil verbessern, da der Bedarf an einer funktionierenden Zotero-Lösung groß ist. Wenn dir oder deinen Dozenten Fehler auffallen oder etwas fehlt: Bitte sag mir Bescheid oder eröffne hier auf GitHub ein "Issue". Ich versuche dann, den Code zeitnah anzupassen.
+Dieser Weg stellt sicher, dass Zotero den Stil fest registriert und er nicht durch automatische Updates überschrieben wird.
 
 
 
-🚀 Installation
+1\. \*\*Öffne Zotero\*\* auf deinem Computer.
 
-Die Installation ist in wenigen Sekunden erledigt:
+2\. Gehe zu \*\*Einstellungen\*\* (Mac: \*Zotero > Einstellungen\* | Windows: \*Bearbeiten > Einstellungen\*).
 
+3\. Klicke auf den Reiter \*\*Erweitert\*\* und wähle \*\*Dateien und Ordner\*\*.
 
+4\. Klicke auf den Button \*\*Datenverzeichnis anzeigen\*\*.
 
-Der einfache Weg:
+5\. Öffne den Unterordner namens \*\*`styles`\*\*.
 
-Lade die Datei APA7 PMU-Style.csl aus diesem Repository herunter.
+6\. Kopiere die heruntergeladene Datei `apa-pmu.csl` direkt in diesen Ordner.
 
+7\. Starte Zotero ggf. neu.
 
 
-Stelle sicher, dass Zotero geöffnet ist.
 
+\### Weg B: Der einfache Weg (Doppelklick)
 
 
-Mache einen Doppelklick auf die heruntergeladene Datei (oder Rechtsklick -> Öffnen mit: Zotero).
 
+1\. Stelle sicher, dass Zotero geöffnet ist.
 
+2\. Mache einen Doppelklick auf die heruntergeladene Datei `apa-pmu.csl`.
 
-Bestätige die Abfrage "Willst du den Style installieren?" mit Ja.
+3\. Bestätige die Abfrage "Willst du den Style installieren?" mit \*\*Ja\*\*.
 
 
 
-In Microsoft Word aktivieren:
+\### Weg C: Über die Zotero-Oberfläche
 
-Öffne Word und gehe zum Reiter Zotero.
 
 
+1\. Gehe in Zotero zu \*\*Einstellungen\*\* > \*\*Zitieren\*\* > \*\*Stile\*\*.
 
-Klicke auf Document Preferences.
+2\. Klicke auf das \*\*Plus-Symbol (+)\*\* unter der Liste der Stile.
 
+3\. Wähle die Datei `apa-pmu.csl` auf deinem Computer aus und klicke auf \*\*Öffnen\*\*.
 
 
-Wähle in der Liste APA 7th edition - PMU Style aus. Fertig!
 
+---
 
 
-🛠 Alternative (Falls es Probleme gibt):
 
-Sollte der Stil nicht in der Liste erscheinen, gehe diesen Weg:
+\## 🛠 Layout-Feinschliff (Word 1,5-Zeilenabstand)
 
 
 
-In Word: Zotero -> Document Preferences.
+Um technische Fehler zu vermeiden, wird der Zeilenabstand direkt in Microsoft Word gesteuert:
 
 
 
-Klicke in der Mitte auf Stile verwalten... (das Zotero-Einstellungsfenster öffnet sich).
+1\. \*\*Formatvorlage finden:\*\* Klicke mit der \*\*rechten Maustaste\*\* in dein Zotero-Literaturverzeichnis in Word und wähle \*\*Formatvorlagen\*\* > \*\*Formatvorlage ändern...\*\* (meist „Bibliography“ oder „Zotero Bibliography“).
 
+2\. \*\*Abstand einstellen:\*\* Klicke auf \*\*Format\*\* > \*\*Absatz...\*\* und stelle den \*\*Zeilenabstand\*\* auf \*\*1,5 Zeilen\*\* (Tipp: „Abstand nach“ auf \*\*12 pt\*\* für bessere Optik).
 
+3\. \*\*Dauerhaft speichern:\*\* Wähle die Option \*\*„Neue auf dieser Vorlage basierende Dokumente“\*\*, damit die Einstellung für alle zukünftigen Arbeiten übernommen wird.
 
-Klicke rechts auf den "+"-Button.
 
 
+---
 
-Wähle die APA7 PMU-Style.csl Datei auf deinem Computer aus und klicke auf Öffnen.
 
 
+\## ⚠️ Disclaimer
 
-Bestätige die Installation und wähle den Stil danach wie oben beschrieben in Word aus.
 
 
+\* \*\*DIY-Hacker-Lösung:\*\* Dies ist ein privates Projekt ohne offizielle Unterstützung der PMU.
 
-Was wurde geändert? (Changelog-Auszug)
+\* \*\*Keine Gewähr:\*\* Ich übernehme keine Verantwortung für Punktabzüge. Bitte prüfe deine Belege immer stichprobenartig.
 
-o.J. statt n.d. bei fehlendem Datum.
 
 
+\## 🤝 Feedback erwünscht!
 
-"unter Mitarbeit von"-Logik für Mitarbeiter/Contributors implementiert.
 
 
+Wenn dir Fehler auffallen: Bitte sag mir Bescheid oder eröffne hier auf GitHub ein "Issue".
 
-Kein Beistrich (Oxford-Komma) vor dem "\&"-Zeichen.
 
 
+---
 
-Ellipse-Regel: Ab 7 Autor:innen wird korrekt mit "..." abgekürzt.
+
+
+\*\*Änderungshistorie:\*\* s. Changelog
 

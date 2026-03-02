@@ -8,7 +8,11 @@ Alle wichtigen Änderungen an der CSL-Datei für die Anpassung an die PMU-Richtl
 Optimiert
 CSL-Validierung korrigiert: Das fehlerhafte Attribut line-spacing="1.5" wurde entfernt, da es nicht dem offiziellen CSL-Standard entspricht und Installationsfehlermeldungen in Zotero verursachte.
 
+Workflow-Optimierung: Die Steuerung des Zeilenabstands wurde offiziell aus der CSL-Logik ausgelagert.
+
 Layout-Standardisierung: Der Zeilenabstand innerhalb der CSL-Datei wurde auf den Standardwert line-spacing="1" gesetzt. Die finale optische Anpassung auf 1,5-zeilig erfolgt nun sauber über die Absatz-Formatvorlage in Microsoft Word.
+
+Dokumentation: Anweisung zur Nutzung der Word-Formatvorlage "Bibliography" für den 1,5-fachen Zeilenabstand hinzugefügt, um CSL-Validierungsfehler dauerhaft zu vermeiden und die Flexibilität im Layout zu erhöhen.
 
 Code-Bereinigung: Der <bibliography>-Tag wurde konsolidiert, um eine reibungslose Integration ohne Warnhinweise zu gewährleisten.
 
