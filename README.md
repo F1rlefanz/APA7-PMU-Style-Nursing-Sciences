@@ -1,15 +1,3 @@
-Alles klar, kein Problem! Wir behalten alle drei Wege bei, sortieren sie aber so, dass die sicherste Methode (die manuelle) ganz oben steht. So kann jeder selbst entscheiden, wie viel „Sicherheit“ er braucht.
-
-
-
-Hier ist die komplette, überarbeitete `README.md` mit allen drei Optionen:
-
-
-
----
-
-
-
 \# APA 7th Edition PMU Style for Nursing Sciences (Zotero)
 
 

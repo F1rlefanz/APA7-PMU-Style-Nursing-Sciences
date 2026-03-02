@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <info>
-    <title>APA 7th edition - PMU Style</title>
-    <title-short>APA</title-short>
-    <id>http://www.zotero.org/styles/apa7_pmu</id>
+    <title>APA 7th edition - PMU Style Nursing Sciences</title>
+    <title-short>APA7-PMU-Nursing</title-short>
+    <id>http://www.zotero.org/styles/apa7_pmu-nursing</id>
     <link href="http://www.zotero.org/styles/apa" rel="self"/>
     <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>

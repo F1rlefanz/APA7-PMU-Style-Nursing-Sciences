@@ -4,6 +4,12 @@
 
 Alle wichtigen Änderungen an der CSL-Datei für die Anpassung an die PMU-Richtlinien.
 
+[1.2.3] - 02.03.2026
+Geändert
+Branding & Identität: Der Name wurde präzisiert auf "APA 7th edition - PMU Style Nursing Sciences".
+
+Eindeutige ID: Umstellung der internen Kennung auf <id>http://www.zotero.org/styles/apa7_pmu-nursing</id> zur Vermeidung von Konflikten mit anderen Institutsvarianten.
+
 [1.2.2] - 02.03.2026
 Optimiert
 CSL-Validierung korrigiert: Das fehlerhafte Attribut line-spacing="1.5" wurde entfernt, da es nicht dem offiziellen CSL-Standard entspricht und Installationsfehlermeldungen in Zotero verursachte.
