@@ -4,6 +4,16 @@
 
 Alle wichtigen Änderungen an der CSL-Datei für die Anpassung an die PMU-Richtlinien.
 
+[1.3.0] - 20.10.2026
+Geändert
+Deutsche Begriffe fest eingestellt: default-locale="de-DE". Zotero, die lokale Zotero-API und zotero-mcp liefern damit immer „S.“, „Hrsg.“, „Oktober“, auch wenn kein Sprachparameter übergeben wird. Die Sprachauswahl in Word ist für diesen Stil ausgegraut (gewollt).
+
+Neue ID: <id>http://www.zotero.org/styles/apa-pmu-nursing</id>. Zotero schaltet die APA-typische Großschreibung nach dem Doppelpunkt im Untertitel nur für IDs ein, die mit „apa“ beginnen. Die ID gibt es im offiziellen Stil-Repository nicht, Zotero-Updates überschreiben den Stil also nicht.
+
+Self-Link zeigt jetzt auf diese Datei statt auf den offiziellen APA-Stil.
+
+Umstieg: neuen Stil installieren; offene Word-Dokumente über Zotero > Dokumenteinstellungen auf „APA 7th edition - PMU Style Nursing Sciences“ (neu) umstellen; danach alte Fassung (apa7_pmu bzw. apa7_pmu-nursing) in Zotero entfernen.
+
 [1.2.3] - 02.03.2026
 Geändert
 Branding & Identität: Der Name wurde präzisiert auf "APA 7th edition - PMU Style Nursing Sciences".

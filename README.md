@@ -6,7 +6,7 @@ Dies ist eine angepasste Version des offiziellen APA 7-Zitationsstils, optimiert
 
 📥 Download \& Installation
 
-Klicke HIER, um die Datei apa-pmu.csl herunterzuladen.
+Klicke HIER, um die Datei apa-pmu-nursing.csl herunterzuladen.
 
 
 
@@ -42,7 +42,7 @@ Klicke auf den Button Datenverzeichnis anzeigen.
 
 
 
-Kopiere die heruntergeladene Datei apa-pmu.csl direkt in diesen Ordner.
+Kopiere die heruntergeladene Datei apa-pmu-nursing.csl direkt in diesen Ordner.
 
 
 
@@ -56,7 +56,7 @@ Stelle sicher, dass Zotero geöffnet ist.
 
 
 
-Mache einen Doppelklick auf die Datei apa-pmu.csl.
+Mache einen Doppelklick auf die Datei apa-pmu-nursing.csl.
 
 
 
@@ -74,7 +74,7 @@ Klicke auf das Plus-Symbol (+) unter der Liste der Stile.
 
 
 
-Wähle die Datei apa-pmu.csl aus und klicke auf Öffnen.
+Wähle die Datei apa-pmu-nursing.csl aus und klicke auf Öffnen.
 
 
 
